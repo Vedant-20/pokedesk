@@ -16,7 +16,7 @@ const togglePopup=()=>{
 
 
   return (
-    <div className='bg-red-500 py-4 px-4 sticky top-0 '>
+    <div className='bg-red-500 py-4 px-4 sticky w-screen top-0 '>
         <div className="container">
             <div className='flex justify-between items-center'>
                 <Link href='/'>

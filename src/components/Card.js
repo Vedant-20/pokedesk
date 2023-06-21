@@ -25,3 +25,9 @@ const Card = ({ img, name, types, onClick }) => {
 };
 
 export default Card;
+
+
+
+
+
+
